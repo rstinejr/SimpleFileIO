@@ -1,2 +1,2 @@
 # SimpleFileIO
-Read a file using .NET COre
+Read a file using .NET Core
